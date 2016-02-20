@@ -1,0 +1,15 @@
+current directory: /home/yusuke/tommywalker-blog/vendor/bundle/ruby/2.3.0/gems/fast_blank-1.0.0/ext/fast_blank
+/home/yusuke/.rbenv/versions/2.3.0/bin/ruby -r ./siteconf20160220-7325-3z79wn.rb extconf.rb
+creating Makefile
+
+current directory: /home/yusuke/tommywalker-blog/vendor/bundle/ruby/2.3.0/gems/fast_blank-1.0.0/ext/fast_blank
+make "DESTDIR=" clean
+
+current directory: /home/yusuke/tommywalker-blog/vendor/bundle/ruby/2.3.0/gems/fast_blank-1.0.0/ext/fast_blank
+make "DESTDIR="
+compiling fast_blank.c
+linking shared-object fast_blank.so
+
+current directory: /home/yusuke/tommywalker-blog/vendor/bundle/ruby/2.3.0/gems/fast_blank-1.0.0/ext/fast_blank
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 fast_blank.so ./.gem.20160220-7325-17rwbld
