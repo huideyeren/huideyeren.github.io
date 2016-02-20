@@ -1,4 +1,4 @@
-# Drops (middleman-blog-drops-template)
+# このブログについて
 
 [Dropsテンプレート](https://github.com/5t111111/middleman-blog-drops-template) を使用しています。
 
