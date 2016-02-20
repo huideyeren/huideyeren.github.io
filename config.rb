@@ -152,24 +152,23 @@ end
 ###
 
 # set site URL
-set :site_url, 'http://blog.example.com'
+set :site_url, 'http://huideyeren.info'
 # set site title
-set :site_title, 'Drops Template'
+set :site_title, '恢徳堂のイオシフさんのブログ'
 # set site description (only used for meta description for the moment)
-set :site_description, 'Site Description'
+set :site_description, 'イオシフ恢徳野人のブログです。同人活動も含む様々なことをつぶやいてます。'
 # set site author name
-set :site_author, 'Site Author'
+set :site_author, 'イオシフ恢徳野人'
 # set site author profile information
-set :site_author_profile, 'Lorem ipsum dolor sit amet, cu facilis indoctum interpretaris has. Ius ea quod euismod fierent, per in legere gubergren accommodare, ut labitur partiendo urbanitas duo. Tamquam inciderint at sed. Per at nibh graecis intellegebat. Probo brute ancillae sit ex, tota recusabo disputando usu et.'
+set :site_author_profile, '1981年、東京に産まれました。一応フロントエンドエンジニアっぽいことしています。発達障がい当事者です。一応正教徒です。いわゆるオタクです。「個」が尊重される、持続可能で公正な社会を目指します。 モットー：【自由・平等・寛容・生存・環境】'
 # set site author profile image (should be in images_dir)
 set :site_author_image, 'profile.png'
 # when true, the page and site titles will be reversed (page title | site title)
 set :reverse_title, true
 # twitter/facebook/github/linkedin links in author page (otherwise set nil)
 set :social_links,
-    twitter: 'https://twitter.com',
-    facebook: 'https://facebook.com',
-    github: 'https://github.com/5t111111',
-    linkedin: 'https://linkedin.com'
+    twitter: 'https://twitter.com/huideyeren',
+    facebook: 'https://www.facebook.com/iosif.takakura.yusuke',
+    github: 'https://github.com/huideyeren'
 # set Google Analytics account, like "XX-12345678-9"
-# set :google_analytics_account, 'XX-12345678-9'
+set :google_analytics_account, 'UA-48887790-1'
