@@ -21,3 +21,6 @@ vendor/bundle
 # Ignore logs
 /log
 /source/log
+
+# ignore Node Modules
+node_modules
