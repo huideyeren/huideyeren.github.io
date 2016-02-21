@@ -3,6 +3,7 @@
 ###
 
 require 'extensions/sitemap.rb'
+require_relative "./lib/build_cleaner"
 
 Time.zone = 'Tokyo'
 
@@ -94,6 +95,8 @@ configure :build do
   # set :http_prefix, "/Content/images/"
 
   activate :gzip
+
+  activate :build_cleaner
 end
 
 # Reload the browser automatically whenever files change
