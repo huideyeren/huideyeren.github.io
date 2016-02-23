@@ -43,3 +43,5 @@ gem 'rack-contrib', '~> 1.2.0'
 
 # Heroku New Relic Addon
 gem 'newrelic_rpm'
+
+gem 'middleman-social_tag_view_helper'

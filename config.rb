@@ -30,6 +30,10 @@ page '/feed.xml', layout: false
 page '/sitemap.xml', layout: false
 page '/robots.txt', layout: false
 
+activate :social_tag_view_helper
+set :facebook_app_id, '1004829916221603'
+set :twitter_user_name, 'huideyeren'
+
 ###
 # Compass
 ###
