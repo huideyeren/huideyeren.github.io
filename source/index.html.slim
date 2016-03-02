@@ -1,7 +1,7 @@
 ---
 pageable: true
 per_page: 10
---- 
+---
 - page_articles.each_with_index do |article, i|
   h1.article-title
     = link_to article.title, article
@@ -21,7 +21,7 @@ per_page: 10
   = article.summary
   .read-more
     a href=article.url
-      | Read More 
+      | 続きを読む
       i.fa.fa-angle-double-right
   hr.article-separator
 .paginate-wrapper
@@ -30,15 +30,15 @@ per_page: 10
       .previous-page
         a href="#{prev_page.url}"
           i.fa.fa-arrow-left
-          |  Previous Page
+          |  次のページ
     - if next_page
       .next-page
         a href="#{next_page.url}"
           i.fa.fa-arrow-right
-          |  Next Page
+          |  前のページ
 - if num_pages > 1
   .page-number
-    | Page 
-    = page_number
-    |  of 
     = num_pages
+    |  ページ中
+    = page_number
+    |  ページ

@@ -130,6 +130,8 @@ GEM
       pmap
       ruby-progressbar
       unf
+    middleman-social_tag_view_helper (0.1.5)
+      middleman-core (>= 3.0.0)
     middleman-sprockets (3.4.2)
       middleman-core (>= 3.3)
       sprockets (~> 2.12.1)
@@ -224,6 +226,7 @@ DEPENDENCIES
   middleman-deploy (~> 1.0)
   middleman-livereload (~> 3.4.2)
   middleman-s3_sync (~> 3.0.47)
+  middleman-social_tag_view_helper
   middleman-syntax (~> 2.0.0)
   newrelic_rpm
   oga (~> 0.3.0)

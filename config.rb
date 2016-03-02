@@ -3,6 +3,7 @@
 ###
 
 require 'extensions/sitemap.rb'
+require_relative "./lib/build_cleaner"
 
 Time.zone = 'Tokyo'
 
@@ -28,6 +29,10 @@ end
 page '/feed.xml', layout: false
 page '/sitemap.xml', layout: false
 page '/robots.txt', layout: false
+
+activate :social_tag_view_helper
+set :facebook_app_id, '1004829916221603'
+set :twitter_user_name, 'huideyeren'
 
 ###
 # Compass
@@ -94,6 +99,8 @@ configure :build do
   # set :http_prefix, "/Content/images/"
 
   activate :gzip
+
+  activate :build_cleaner
 end
 
 # Reload the browser automatically whenever files change
@@ -162,7 +169,7 @@ set :site_author, 'イオシフ恢徳野人'
 # set site author profile information
 set :site_author_profile, '1981年、東京に産まれました。一応フロントエンドエンジニアっぽいことしています。発達障がい当事者です。一応正教徒です。いわゆるオタクです。「個」が尊重される、持続可能で公正な社会を目指します。 モットー：【自由・平等・寛容・生存・環境】'
 # set site author profile image (should be in images_dir)
-set :site_author_image, 'profile.png'
+set :site_author_image, '3515381.png'
 # when true, the page and site titles will be reversed (page title | site title)
 set :reverse_title, true
 # twitter/facebook/github/linkedin links in author page (otherwise set nil)
