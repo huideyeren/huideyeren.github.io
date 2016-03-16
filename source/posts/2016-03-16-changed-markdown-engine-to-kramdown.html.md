@@ -47,7 +47,7 @@ HTMLにアンカーがあればTrue
 
 ## 上付き
 
-2^(nd) Children
+2^nd Children
 
 ## バッククオートで囲むスタイルのコードブロック
 
