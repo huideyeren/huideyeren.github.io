@@ -16,7 +16,47 @@ GFMサポートによって、GitHubでも[GitHub PagesのMarkdownエンジン�
 
 とりあえず、`config.rb`での設定は以下の通りにしています。
 
-```ruby
+``` ruby
 set :markdown, input: "GFM",
                hard_wrap: true
 ```
+
+# 以下テスト
+
+## autolink
+
+http://huideyeren.info/
+
+## tables
+
+|hoge|piyo|
+|----|----|
+|foo |bar |
+
+## 単語の中のem
+
+hoge_piyo_huga
+
+## 取り消し線
+
+~~hogehoge~~
+
+## TOC
+
+HTMLにアンカーがあればTrue
+
+## 上付き
+
+2^(nd) Children
+
+## バッククオートで囲むスタイルのコードブロック
+
+``` ruby
+puts "Hello, World"
+```
+
+## 改行
+
+ああああ
+いいいい
+うううう
