@@ -17,8 +17,7 @@ GFMサポートによって、GitHubでも[GitHub PagesのMarkdownエンジン�
 とりあえず、`config.rb`での設定は以下の通りにしています。
 
 ``` ruby
-set :markdown, input: "GFM",
-               hard_wrap: true
+set :markdown, input: "GFM", hard_wrap: true, header_offset: 1
 ```
 
 # 以下テスト
@@ -66,3 +65,12 @@ puts "Hello, World"
 ああああ[^1]あああああ
 
 [^1]: あああああ
+
+# 結論
+
+個人的には脚注と属性の追加が使えるのでKramdownの方がよいと思います。
+
+なお、h1タグが多すぎるのはいかがなものかという個人的な理由で、`header_offset`は`1`にしてます。
+
+ただし、どうも上付き、下付きがうまくいかない模様です。
+まあ、あまり使わないので問題はないかと思います。

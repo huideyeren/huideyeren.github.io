@@ -71,7 +71,7 @@ set :images_dir, 'images'
 
 # Markdown settings
 
-set :markdown, input: "GFM", hard_wrap: true
+set :markdown, input: "GFM", hard_wrap: true, header_offset: 1
 
 # Build-specific configuration
 configure :build do
