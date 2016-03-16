@@ -74,3 +74,11 @@ puts "Hello, World"
 
 ただし、どうも上付き、下付きがうまくいかない模様です。
 まあ、あまり使わないので問題はないかと思います。
+
+# 追記
+
+https://github.com/gettalong/kramdown/issues/41
+
+これによると、Kramdownの上付き・下付きは未実装のようです。
+
+v2.0.0での実装を目指すようです。
