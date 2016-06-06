@@ -16,7 +16,7 @@ header {
 
   .top-menu {
     @include pie-clearfix;
-    background-color: $blind-gray;
+    background-color: $royal-purple;
     height: $top-menu-height;
     position: fixed;
     top: 0;
@@ -37,7 +37,8 @@ header {
         color: $top-menu-text-color;
 
         &:hover {
-          color: $whity-light-gray;
+          color: $top-menu-text-color;
+          text-decoration: underline;
         }
       }
 

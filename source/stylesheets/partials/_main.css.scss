@@ -28,7 +28,7 @@ main {
 
     .tag-label {
       @include border-radius(13px);
-      background: darken($feather-gray, 4);
+      background: $link-color;
       border: 0 none;
       color: $white;
       cursor: pointer;

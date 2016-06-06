@@ -11,9 +11,12 @@ $white: #fff;
 $code-gray: #f7f7f7;
 $crammy-green: #28a1a1;
 $border-gray: rgba(228, 229, 233, .96);
+$royal-purple: #7F1184;
+$purple: #9900CC;
+$gold: 	#FFDF00;
 
 $monospace: Consolas, 'Liberation Mono', Menlo, Courier, monospace;
-$serif: 'Lato', sans-serif;
+$serif: Times , "游明朝", YuMincho, "Times New Roman", "ヒラギノ明朝 ProN W3", "Hiragino Mincho ProN", "HG明朝E", "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
 
 // Typography
 $em-normalize-ratio: 62.5%;
@@ -28,12 +31,12 @@ $content-width: 960px;
 $content-body-padding: 15px;
 $content-body-width: $content-width - ($content-body-padding * 2);
 $default-font-family: $serif;
-$default-text-color: $hardcore-gray;
-$default-background-color: $white;
+$default-text-color: $blind-gray;
+$default-background-color: $gold;
 $top-menu-height: 40px;
-$top-menu-text-color: $feather-gray;
-$footer-text-color: $feather-gray;
-$link-color: $crammy-green;
+$top-menu-text-color: $white;
+$footer-text-color: $white;
+$link-color: $royal-purple;
 $default-font-size: 1.6rem;
 $default-line-height: 1.8;
 $mobile-font-size: 1.4rem;

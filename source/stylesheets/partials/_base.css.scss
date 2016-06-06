@@ -22,7 +22,7 @@
 }
 
 html {
-  background: $blind-gray;
+  background: $royal-purple;
   font-size: $em-normalize-ratio;
 }
 
@@ -73,7 +73,7 @@ p {
 }
 
 hr {
-  background: $border-gray;
+  background: $royal-purple;
   border: 0;
   height: 1px;
   margin: 24px 0;
@@ -98,8 +98,8 @@ a {
 }
 
 pre {
-  background: $code-gray;
-  border: 1px solid $whity-light-gray;
+  background: lighten($gold, 10);
+  border: 1px solid $royal-purple;
   font-family: $monospace;
   font-size: 1.3rem;
   line-height: 1.5;
@@ -125,8 +125,8 @@ em {
 }
 
 blockquote {
-  border-left: 3px solid $whity-light-gray;
-  color: lighten($default-text-color, 20);
+  border-left: 3px solid $royal-purple;
+  color: lighten($default-text-color, 10);
   margin: 3rem 1rem;
   padding-left: 1rem;
 }
@@ -136,17 +136,17 @@ table {
   margin-top: $default-font-size + 1rem;
 
   tr {
-    background-color: $white;
-    border-top: 1px solid $whity-gray;
+    background-color: $gold;
+    border-top: 1px solid $royal-purple;
     margin: 0;
     padding: 0;
 
     &:nth-child(2n) {
-      background-color: $code-gray;
+      background-color: lighten($gold, 10);
     }
 
     th {
-      border: 1px solid $whity-gray;
+      border: 1px solid $royal-purple;
       font-weight: bold;
       margin: 0;
       padding: 6px 13px;
@@ -162,7 +162,7 @@ table {
     }
 
     td {
-      border: 1px solid $whity-gray;
+      border: 1px solid $royal-purple;
       margin: 0;
       padding: 6px 13px;
       text-align: left;
