@@ -12,10 +12,14 @@ recommonmarkプラグインの登場により、SphinxでもMarkdownで記事が
 
 なので、SphinxのHTMLでの目次のリンクがうまく作動しない状況です。
 
-## 場渡り的な解決策
+# 場渡り的な解決策
 
 現状の解決策として、Pandocを使用してMarkdownを一回reStructuredTextにしてしまう方法があります。こうすると、表や注釈などPHP Markdown Extraの書式が使える上、日本語だけの見出しでもIDが振られ、HTMLドキュメントの目次が作用するようになります。
 
-## できれば……
+# できれば……
 
 KramdownがPythonに移植されて組み込めるようになってくれるとありがたいです。
+
+# 欠点
+
+この方法の欠点は、Markdownの他にreStructuredTextも覚えなければいけない点です。なにせBlockdiagとか使う場合はMarkdownだとディレクティブ埋め込めないので。
