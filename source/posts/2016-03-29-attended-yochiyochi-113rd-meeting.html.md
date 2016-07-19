@@ -1,7 +1,7 @@
 ---
 title: よちよち.rb 第113回勉強会に参加してきました。
 date: 2016-03-29 08:48 +0900
-tags: IT技術, Ruby, Rails
+tags: Tech, Ruby, Rails
 ---
 
 # よちよち.rb 第113回勉強会に参加してきました。

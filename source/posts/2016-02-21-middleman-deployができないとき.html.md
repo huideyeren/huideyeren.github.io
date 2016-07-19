@@ -1,7 +1,7 @@
 ---
 title: middleman deployができないとき
 date: 2016-02-21 10:34 +0900
-tags: IT技術, Ruby, Middleman
+tags: Tech, Ruby, Middleman
 ---
 
 # Middleman Deployでデプロイできない問題。

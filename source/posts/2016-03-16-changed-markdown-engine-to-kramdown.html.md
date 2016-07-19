@@ -1,7 +1,7 @@
 ---
 title: MarkdownエンジンをKramdownに変えました。
 date: 2016-03-16 07:50 +0900
-tags: IT技術, Ruby, Middleman
+tags: Tech, Ruby, Middleman
 ---
 
 # MarkdownのエンジンをKramdownに変えました。

@@ -1,7 +1,7 @@
 ---
 title: 新しくMacBook Proを買うことにしました
 date: 2016-03-03 07:40 +0900
-tags: お知らせ
+tags: Information
 ---
 
 # ご報告
