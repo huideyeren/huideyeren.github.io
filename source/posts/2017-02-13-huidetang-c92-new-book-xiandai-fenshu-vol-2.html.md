@@ -1,5 +1,5 @@
 ---
-title: Huidetang C92 new book Xiandai Fenshu vol.2
+title: コミックマーケット92に申し込みしました
 date: 2017-02-13 08:38 +0900
 tags: Dojin
 ---
