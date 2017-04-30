@@ -6,6 +6,31 @@ h3
   = site_author
 p
   = site_author_profile
+h3 ポートフォリオ
+p
+  = link_to "ポートフォリオのページ", "/portofolio/"
+h3 ソーシャルアカウント
+dl
+  dt Twitter
+  dd
+    a href="https://twitter.com/huideyeren"
+      | @huideyeren
+  dt Facebook
+  dd
+    a href="https://www.facebook.com/iosif.takakura.yusuke"
+      | Iosif Takakura Yusuke
+  dt Hatena Bookmark
+  dd
+    a href="http://b.hatena.ne.jp/huideyeren/"
+      | huideyeren
+  dt Qiita
+  dd
+    a href="http://qiita.com/huideyeren"
+      | huideyeren
+  dt GitHub
+  dd
+    a href="https://github.com/huideyeren"
+      | huideyeren
 .social-wrapper
   ul
     - social_links.each do |name, url|
