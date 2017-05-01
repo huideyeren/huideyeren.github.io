@@ -168,6 +168,7 @@ set :reverse_title, true
 set :social_links,
     twitter: 'https://twitter.com/huideyeren',
     facebook: 'https://www.facebook.com/iosif.takakura.yusuke',
-    github: 'https://github.com/huideyeren'
+    github: 'https://github.com/huideyeren',
+    check: 'https://friends.nico/@Iosif'
 # set Google Analytics account, like "XX-12345678-9"
 set :google_analytics_account, 'UA-48887790-1'
