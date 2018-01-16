@@ -43,5 +43,7 @@ tags: Dojin
   - Twitter：[@huideyeren](https://twitter.com/huideyeren)
   - Mastodon：[@Iosif@friends.nico](https://friends.nico/@Iosif)
 - 連絡手段：Slackのチャンネルを用意します。
+- 参加表明：2018年6月一杯
+- 原稿締め切り：2018年7月第1週
 
 ご連絡、お待ちしております。
