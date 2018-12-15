@@ -157,9 +157,9 @@ set :site_title, '恢徳堂のイオシフさんのブログ'
 # set site description (only used for meta description for the moment)
 set :site_description, 'イオシフ恢徳野人のブログです。同人活動も含む様々なことをつぶやいてます。'
 # set site author name
-set :site_author, 'イオシフ恢徳野人'
+set :site_author, 'イオシフ恢徳野人（ヨーシャ）'
 # set site author profile information
-set :site_author_profile, '1981年、東京に産まれました。一応フロントエンドエンジニアっぽいことしています。発達障がい当事者です。一応正教徒です。いわゆるオタクです。「個」が尊重される、持続可能で公正な社会を目指します。 モットー：【自由・平等・寛容・生存・環境】'
+set :site_author_profile, '1981年、東京に産まれました。一応システムエンジニアっぽいことしています。発達障がい当事者です。一応正教徒です。いわゆるオタクです。「個」が尊重される、持続可能で公正な社会を目指します。 モットー：【自由・平等・寛容・生存・環境】'
 # set site author profile image (should be in images_dir)
 set :site_author_image, '3515381.png'
 # when true, the page and site titles will be reversed (page title | site title)
