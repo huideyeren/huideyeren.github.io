@@ -1,5 +1,5 @@
 ---
-title: move-blog-to-netlify
+title: ブログをNetlifyに移行しました
 date: 2018-12-19 19:48 +0900
 tags: Information, Tech
 ---
