@@ -36,7 +36,7 @@ gem 'sitemap_generator', '~> 5.0.5'
 gem 'breakpoint', '~> 2.5.0'
 
 # Web server
-gem 'puma', '~> 2.11.0'
+gem 'puma', '~> 2.15.3'
 
 # to serve static files
 gem 'rack-contrib', '~> 1.2.0'
