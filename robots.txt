@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://huideyeren.info/sitemap.xml.gz
