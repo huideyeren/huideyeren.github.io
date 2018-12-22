@@ -6,7 +6,7 @@ tags: Zakki, Advent-calendar
 
 # はじめに
 
-この記事は[Amazon購入履歴 Advent Calendar 2018](https://adventar.org/calendars/3224)の12月15日分の記事になります。
+この記事は[Amazon購入履歴 Advent Calendar 2018](https://adventar.org/calendars/3224)の12月22日分の記事になります。
 
 # 平成最後のクリスマスですが
 
