@@ -6,7 +6,7 @@ tags: Zakki, Advent-calendar
 
 # はじめに
 
-この記事は[オープンソースカンファレンス Advent Calendar 2018](https://adventar.org/calendars/3403403)の12月23日分の記事になります。
+この記事は[オープンソースカンファレンス Advent Calendar 2018](https://adventar.org/calendars/3403)の12月23日分の記事になります。
 
 # Bar Root？
 
