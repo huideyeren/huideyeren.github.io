@@ -6,7 +6,7 @@ tags: Zakki, Advent-calendar, Otaku, Madoka-Magica
 
 # はじめに
 
-この記事は[あえてクリスマスについて語ってみる Advent Calendar 2018](https://adventar.org/calendars/3402)と[魔法少女まどか☆マギカ Advent Calendar 2018](https://adventar.org/calendars/3407)の12月23日分の記事になります。
+この記事は[あえてクリスマスについて語ってみる Advent Calendar 2018](https://adventar.org/calendars/3402)と[魔法少女まどか☆マギカ Advent Calendar 2018](https://adventar.org/calendars/3407)の12月25日分の記事になります。
 
 # 平成とクリスマス
 
