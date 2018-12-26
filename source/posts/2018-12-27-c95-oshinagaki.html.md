@@ -15,7 +15,7 @@ tags: Dojin
 
 概要および表紙は先ほどのツイートにも書かれていますが、Webカタログからでも見ることができます。
 
-https://webcatalog.circle.ms/Circle/14234742
+[コミックマーケットWebカタログへのリンク](https://webcatalog.circle.ms/Circle/14234742)
 
 # 本の内容
 
