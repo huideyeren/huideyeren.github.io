@@ -3,9 +3,9 @@
         "preset-japanese": true,
         "prh": {
             "rulePaths": [
-                "./node_modules/prh/rules/languages/ja/typo.yml",
-                "./node_modules/prh/rules/media/techbooster.yml",
-                "./node_modules/prh/rules/media/WEB+DB_PRESS.yml"
+                "./node_modules/prh/prh-rules/languages/ja/typo.yml",
+                "./node_modules/prh/prh-rules/media/techbooster.yml",
+                "./node_modules/prh/prh-rules/media/WEB+DB_PRESS.yml"
             ]
         }
     }
