@@ -155,9 +155,9 @@ set :site_url, 'http://huideyeren.info'
 # set site title
 set :site_title, '恢徳堂のヨーシャさんのブログ'
 # set site description (only used for meta description for the moment)
-set :site_description, 'ヨーシャことイオシフ恢徳野人のブログです。IT技術のことやトミーウォーカーのPBWのこと、同人活動のことも含む様々なことをつぶやいてます。'
+set :site_description, 'ヨーシャことIosif Takakuraのブログです。IT技術のことやトミーウォーカーのPBWのこと、同人活動のことも含む様々なことをつぶやいてます。'
 # set site author name
-set :site_author, 'イオシフ恢徳野人（ヨーシャ）'
+set :site_author, 'Iosif Takakura'
 # set site author profile information
 set :site_author_profile, '1981年、東京に生まれました。修士（史学）ですがいろいろな技術に興味を持ち、今ではプログラマー・システムエンジニアをしながら物書きもしています。発達障がい、とりわけADHD当事者です。MBTI診断ではENFPタイプです。一応正教会に属するクリスチャンです。いわゆるオタクです。「個」が尊重される、持続可能で公正な社会を目指します。 モットー：【自由・平等・寛容・生存・環境】'
 # set site author profile image (should be in images_dir)
