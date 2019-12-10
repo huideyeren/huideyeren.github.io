@@ -6,7 +6,7 @@ tags: Zakki, Advent-calendar
 
 # はじめに
 
-この記事は[アスタルテゆるふわアドベントカレンダー Advent Calendar 2019](https://huideyeren.info/2018/12/25/tommywalker-uchinoko/)の11日目の記事になります。
+この記事は[アスタルテゆるふわアドベントカレンダー Advent Calendar 2019](https://adventar.org/calendars/3971)の11日目の記事になります。
 
 # お前誰よ？
 
