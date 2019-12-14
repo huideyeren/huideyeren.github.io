@@ -1,7 +1,7 @@
 ---
 title: 平成最後のクリスマスに鹿目まどかを想う
 date: 2018-12-25 07:17 +0900
-tags: Zakki, Advent-calendar, Otaku, Madoka-Magica
+tags: Essay, Advent-calendar, Otaku, Madoka-Magica
 ---
 
 # はじめに

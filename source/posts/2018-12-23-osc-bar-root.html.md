@@ -1,7 +1,7 @@
 ---
 title: OSC懇親会の隠れた名物「Bar Root」について語る
 date: 2018-12-23 07:00 +0900
-tags: Zakki, Advent-calendar
+tags: Essay, Advent-calendar
 ---
 
 # はじめに

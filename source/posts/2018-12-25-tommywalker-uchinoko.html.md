@@ -1,7 +1,7 @@
 ---
 title: 第六猟兵も始まったことだしうちの子を振り返ってみる
 date: 2018-12-25 07:17 +0900
-tags: Zakki, Advent-calendar, PBW
+tags: Essay, Advent-calendar, PBW
 ---
 
 # はじめに

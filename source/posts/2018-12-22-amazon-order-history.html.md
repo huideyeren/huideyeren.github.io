@@ -1,7 +1,7 @@
 ---
 title: Amazonの購入履歴で2018年を振り返ってみる
 date: 2018-12-22 07:00 +0900
-tags: Zakki, Advent-calendar
+tags: Essay, Advent-calendar
 ---
 
 # はじめに

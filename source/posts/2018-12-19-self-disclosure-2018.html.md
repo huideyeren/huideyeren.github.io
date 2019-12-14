@@ -1,7 +1,7 @@
 ---
 title: 「完璧」など人間には無理であるということ
 date: 2018-12-19 07:30 +0900
-tags: Zakki, Advent-calendar
+tags: Essay, Advent-calendar
 ---
 
 # はじめに

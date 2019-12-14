@@ -1,7 +1,7 @@
 ---
 title: 就職氷河期から見た「輪るピングドラム」
 date: 2019-12-11 07:44 +0900
-tags: Zakki, Advent-calendar
+tags: Essay, Advent-calendar
 ---
 
 # はじめに
