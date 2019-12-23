@@ -1,7 +1,7 @@
 ---
 title: カンファレンススタッフをやってみないかい？
 date: 2019-12-21 17:48 +0900
-tags: 
+tags: Essay, Advent-calendar
 ---
 
 # 前置き
