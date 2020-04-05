@@ -1,6 +1,9 @@
 ---
-title: What is needed in order to deal with the COVID-19 pandemic
+title: COVID-19パンデミックに対応するために必要なこと
 date: 2020-04-06 07:54 +0900
-tags:
+tags: Essay
 ---
 
+# COVID-19のパンデミックが暴いてしまったもの
+
+（これから書きます）
