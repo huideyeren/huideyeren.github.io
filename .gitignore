@@ -25,3 +25,6 @@
 
 # ignore Node Modules
 /node_modules
+
+# Ignore F# files
+/.ionide
