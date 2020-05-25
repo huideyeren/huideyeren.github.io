@@ -26,13 +26,13 @@ jobs:
     - name: Setup Node.js environment
       uses: actions/setup-node@v1.4.2
     - name: Install Bundler
-      run: gem install bundler
+      run: gem install bundler -v 1.14.5
     - name: Install Ruby dependencies
-      run: bundle install
+      run: bundle _1.14.5_ install
     - name: Install Node.js dependencies
       run: npm i
     - name: Build
-      run: bundle exec middleman build
+      run: bundle _1.14.5_ exec middleman build
     - name: Deploy
       id: builddeploy
       uses: Azure/static-web-apps-deploy@v0.0.1-preview
