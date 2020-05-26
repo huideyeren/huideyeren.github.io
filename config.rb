@@ -151,7 +151,7 @@ end
 ###
 
 # set site URL
-set :site_url, 'http://huideyeren.info'
+set :site_url, 'https://huideyeren.info'
 # set site title
 set :site_title, '恢徳堂のヨーシャさんのブログ'
 # set site description (only used for meta description for the moment)
@@ -168,7 +168,9 @@ set :reverse_title, true
 set :social_links,
     twitter: 'https://twitter.com/huideyeren',
     facebook: 'https://www.facebook.com/iosif.takakura.yusuke',
+    instagram: 'https://www.instagram.com/huideyeren/',
     github: 'https://github.com/huideyeren',
-    check: 'https://friends.nico/@Iosif'
+    line: 'https://line.me/ti/p/2u4zlIT0uf',
+    steam: 'https://steamcommunity.com/id/huideyeren/'
 # set Google Analytics account, like "XX-12345678-9"
 set :google_analytics_account, 'UA-48887790-1'
