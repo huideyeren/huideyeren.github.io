@@ -141,7 +141,7 @@ after_configuration do
     asset_path = Pathname.new(file).relative_path_from(Pathname.new(File.join(root, "node_modules")))
     sprockets.import_asset asset_path do |path|
       org_path = Pathname.new(path)
-      "fonts/#{org_path.basename}"
+      "webfonts/#{org_path.basename}"
     end
   end
 end
