@@ -137,7 +137,7 @@ end
 after_configuration do
   sprockets.append_path File.join "#{root}", "node_modules"
 
-  Dir.glob(File.join("#{root}", "node_modules", "*", "fonts", "*")) do |file|
+  Dir.glob(File.join("#{root}", "node_modules", "@fortawesome", "fontawesome-free", "webfonts", "*")) do |file|
     asset_path = Pathname.new(file).relative_path_from(Pathname.new(File.join(root, "node_modules")))
     sprockets.import_asset asset_path do |path|
       org_path = Pathname.new(path)
