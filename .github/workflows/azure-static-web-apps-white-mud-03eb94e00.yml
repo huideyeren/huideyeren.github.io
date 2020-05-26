@@ -31,6 +31,8 @@ jobs:
       run: bundle _1.14.5_ install
     - name: Install Node.js dependencies
       run: npm i
+    - name: Build
+      run: bundle _1.14.5_ exec middleman build
     - name: Deploy
       id: builddeploy
       uses: Azure/static-web-apps-deploy@v0.0.1-preview
@@ -42,7 +44,7 @@ jobs:
         # For more information regarding Static Web App workflow configurations, please visit: https://aka.ms/swaworkflowconfig 
         app_location: '/' # App source code path
         app_artifact_location: 'build' # Built app content directory - optional
-        app_build_command: bundle _1.14.5_ exec middleman build
+        app_build_command: ''
         ###### End of Repository/Build Configurations ######
 
   close_pull_request_job:
