@@ -45,3 +45,7 @@ gem 'rack-contrib', '~> 1.2.0'
 gem 'newrelic_rpm'
 
 gem 'middleman-social_tag_view_helper'
+
+gem "kramdown", ">= 2.3.0"
+
+gem "rack", ">= 2.1.4"
