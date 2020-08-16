@@ -2,5 +2,8 @@
     "cSpell.words": [
         "madokaist"
     ],
-    "FSharp.suggestGitignore": false
+    "FSharp.suggestGitignore": false,
+    "textlint.configPath": "/home/iosif/huideyeren.github.io/.textlintrc",
+    "textlint.nodePath": "/home/iosif/huideyeren.github.io/node_modules",
+    "editor.renderWhitespace": "boundary",
 }
