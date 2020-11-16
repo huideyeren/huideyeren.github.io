@@ -3,6 +3,7 @@
         "madokaist"
     ],
     "FSharp.suggestGitignore": false,
-    "textlint.configPath": "/Users/yusuketakakura/huideyeren.github.io/.textlintrc",
-    "textlint.nodePath": "/Users/yusuketakakura/huideyeren.github.io/node_modules",
+    "textlint.configPath": "/home/iosif/huideyeren.github.io/.textlintrc",
+    "textlint.nodePath": "/home/iosif/huideyeren.github.io/node_modules",
+    "editor.renderWhitespace": "boundary",
 }
