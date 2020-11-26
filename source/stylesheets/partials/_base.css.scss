@@ -71,6 +71,7 @@ h3 {
 p {
   word-wrap: break-word;
   margin-bottom: 28px;
+  text-indent: 1em;
 }
 
 hr {
@@ -91,6 +92,23 @@ ol {
   list-style-type: decimal;
   margin-bottom: $default-font-size + 1rem;
   margin-left: 2rem;
+  margin-top: $default-font-size + 1rem;
+}
+
+dl {
+  dt {
+    &:before {
+      content: "【";
+    }
+    &:after {
+      content: "】";
+    }
+  }
+  dd {
+    margin-left: 2rem;
+    text-indent: 1em;
+  }
+  margin-bottom: $default-font-size + 1rem;
   margin-top: $default-font-size + 1rem;
 }
 
