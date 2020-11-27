@@ -16,4 +16,20 @@
       }
     }
   }
+  dl {
+    dt {
+      &:before {
+        content: "【";
+      }
+      &:after {
+        content: "】";
+      }
+    }
+    dd {
+      margin-left: 2rem;
+      text-indent: 1em;
+    }
+    margin-bottom: $default-font-size + 1rem;
+    margin-top: $default-font-size + 1rem;
+  }
 }
