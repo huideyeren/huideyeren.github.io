@@ -26,7 +26,7 @@ jobs:
       with:
         ruby-version: 2.4
     - name: Setup Node.js environment
-      uses: actions/setup-node@v1.4.2
+      uses: actions/setup-node@v1
     - name: Install Bundler
       run: gem install bundler -v 1.14.5
     - name: Install Ruby dependencies
