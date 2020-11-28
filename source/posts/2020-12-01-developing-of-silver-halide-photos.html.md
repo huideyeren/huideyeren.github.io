@@ -12,6 +12,7 @@ published: false
 
 # フィルムの現像の手順
 
+![暗室で写真を現像する人のイラスト by いらすとや](photo_anshitsu_genzou.png){:.max30}
 ## フィルムをパトローネから取り出す
 
 （書く）
