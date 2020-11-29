@@ -45,3 +45,5 @@ gem 'rack-contrib', '~> 1.2.0'
 gem 'newrelic_rpm'
 
 gem 'middleman-social_tag_view_helper'
+
+gem 'solargraph', group: :development
