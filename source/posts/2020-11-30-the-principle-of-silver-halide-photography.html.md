@@ -2,7 +2,6 @@
 title: 銀塩写真の原理について
 date: 2020-11-30 23:52 +0900
 tags: Essay, Photo, Advent-calendar
-published: false
 ---
 
 # はじめに
