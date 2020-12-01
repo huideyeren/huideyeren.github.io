@@ -89,7 +89,7 @@ configure :build do
 
   # Or use a different image path
   # set :http_prefix, "/Content/images/"
-  set :http_prefix, "/images/"
+  set :http_prefix, "https://huideyeren.info/"
 
   activate :gzip
 
