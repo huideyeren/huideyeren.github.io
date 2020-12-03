@@ -1,8 +1,7 @@
 ---
-title: My recommendations for developer solutions
+title: 私がおすすめする現像液を紹介します
 date: 2020-12-06 23:50 +0900
 tags: Essay, Photo, Advent-calendar
-published: false
 ---
 
 # はじめに
