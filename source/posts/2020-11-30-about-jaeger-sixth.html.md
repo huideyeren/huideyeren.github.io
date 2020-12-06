@@ -2,7 +2,6 @@
 title: 第六猟兵についてざっと紹介してみる
 date: 2020-11-30 23:50 +0900
 tags: Essay, Advent-calendar, PBW, TRPG
-published: false
 ---
 
 # はじめに

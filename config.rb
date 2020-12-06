@@ -159,7 +159,7 @@ set :site_description, 'ヨーシャことIosif Takakuraのブログです。IT�
 # set site author name
 set :site_author, 'Iosif Takakura'
 # set site author profile information
-set :site_author_profile, '1981年、東京に生まれました。修士（史学）ですがいろいろな技術に興味を持ち、今ではプログラマー・システムエンジニアをしながら物書きもしています。発達障がい、とりわけADHD当事者です。MBTI診断ではENFPタイプです。一応正教会に属するクリスチャンです。いわゆるオタクです。「個」が尊重される、持続可能で公正な社会を目指します。 モットー：【自由・平等・寛容・生存・環境】'
+set :site_author_profile, '1981年、東京に生まれました。修士（史学）ですがいろいろな技術に興味を持ち、今ではプログラマー・システムエンジニアをしながら物書きもしていたり、写真を撮ったりしています。発達障がい、とりわけADHD当事者です。MBTI診断ではENFPタイプです。一応正教会に属するクリスチャンです。いわゆるオタクです。「個」が尊重される、持続可能で公正な社会を目指します。 モットー：【自由・平等・寛容・生存・環境】'
 # set site author profile image (should be in images_dir)
 set :site_author_image, 'mongolian.jpg'
 # when true, the page and site titles will be reversed (page title | site title)

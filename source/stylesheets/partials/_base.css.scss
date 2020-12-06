@@ -198,3 +198,12 @@ table {
     }
   }
 }
+
+h4 {
+  &:before {
+    content: "【";
+  }
+  &:after {
+    content: "】";
+  }
+}
