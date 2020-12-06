@@ -6,7 +6,7 @@ tags: Essay, Photo, Advent-calendar
 
 # はじめに
 
-この記事は[銀塩写真 Advent Calendar 2020](https://adventar.org/calendars/5527)の12月2日の記事になります。
+この記事は[銀塩写真 Advent Calendar 2020](https://adventar.org/calendars/5527)の12月7日の記事になります。
 前回の記事は私の[私が使った白黒ネガフィルムの感想](https://huideyeren.info/2020/12/04/my-recommendations-for-black-and-white-negative-film/)でした。
 今回は、私がおすすめする現像液について書きます。
 前回と同じ写真が載ってると思いますが、今度は現像液ごとに分けてみたということでお許しください。
@@ -15,7 +15,7 @@ tags: Essay, Photo, Advent-calendar
 
 ## ロディナル
 
-http://www.rodinal.jp/
+[公式ホームページ http://www.rodinal.jp/](http://www.rodinal.jp/)
 
 1888年に、ドイツのアグファで作られた現像液です。もっとも、一般的にはロジナールという名前で知られています。この現像液の歴史は東西ドイツ分裂も含めていろいろとややこしいことがありました。今ではドイツのアドックスがロディナルいう商品名で出していますが、商標の問題でロディナルという名前が使えないこともあったようで、アドナルという名前で出していたこともありました。さらに、これは「西ドイツ」の話で、「東ドイツ」は同じルーツを持つ現像液がR09という名前で出ていたりしました。アドックスのロディナル（アドナル）とR09の違いは原材料のクオリティぐらいで、同じ現像データが使えるとのことです。成分が取扱注意レベルらしく航空便で送れなくなってしまったので、このコロナ禍では入手がかなり難しくなってしまいました。と思うと100ml入りのものを2本注文したはずなのに送られてきたものが500ml入り2本でここしばらくはなんとかなりそうどころか、3年は多分戦えるのではないかと予感がしています。
 
@@ -56,7 +56,7 @@ http://www.rodinal.jp/
 
 ## SPUR Silversalt現像液
 
-http://www.silversalt-dev.silversalt.jp/
+[公式ホームページ http://www.silversalt-dev.silversalt.jp/](http://www.silversalt-dev.silversalt.jp/)
 
 ロディナルの輸入代理店、シルバーソルトがドイツのシュプールと共同開発した新しいオールラウンド現像液です。シャープネスもコントラストもいい感じなのに箱に書かれたフィルム感度そのままでいけてしまうすごい現像液です。
 
@@ -68,7 +68,7 @@ http://www.silversalt-dev.silversalt.jp/
 
 ## スーパープロドール
 
-https://www.fujifilm.com/jp/ja/consumer/films/monochrome
+[公式ホームページ https://www.fujifilm.com/jp/ja/consumer/films/monochrome](https://www.fujifilm.com/jp/ja/consumer/films/monochrome)
 
 コロナ禍でロジナールの入荷が止まって仕方なく使った現像液です。コダックのD-76同様原液をそのまま使うことも1+1に薄めて使うこともできますが、原液の場合は現像液が疲労するまで数本処理できるという特徴があります。もっとも粉末なので1lの水に溶かなければいけないのがつらいところです。
 
@@ -90,7 +90,7 @@ https://www.fujifilm.com/jp/ja/consumer/films/monochrome
 
 このCaffenol-Cにはいろいろなレシピがあります。詳しくは次のページにまとめられています。
 
-http://over-drive.co.jp/photograph/tsurezure_caffenol_c.html
+[様々なレシピを紹介しているページ http://over-drive.co.jp/photograph/tsurezure_caffenol_c.html](http://over-drive.co.jp/photograph/tsurezure_caffenol_c.html)
 
 大体はCaffenol-C-Mというレシピに落ち着くのですが、ISO400以上のフィルムの場合はブロムカリを微量入れるCaffenol-C-Hがよいと言われています。面白いことに、これにも静止現像用のレシピであるCaffenol-C-Lがあり、こちらは70分放置らしいです。また、ビタミンCを増やし炭酸ナトリウムを減らしたデルタレシピというバリエーションがあります。
 
