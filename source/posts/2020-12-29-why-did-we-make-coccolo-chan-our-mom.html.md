@@ -45,4 +45,4 @@ tags: Essay, Otaku, Princess-Connect, Advent-calendar
 
 # 終わりに
 
-個人的に、いまのオタクは疎外を深めてしまっているように思えます。キモいと思われることが、より一層の女性嫌悪として現れ、オタクとフェミニズムの対立がいっそう深くなっていってしまっていると思います。これについては、次の[障害の社会モデルからオタクとフェミニズムの対立を考える](https://huideyeren.info/2021/01/07/considering-the-conflict-between-otaku-and-feminism-from-the-social-model-of-disability/)の記事に続きを書きたいと思います。
+個人的に、いまのオタクは疎外を深めてしまっているように思えます。キモいと思われることが、より一層の女性嫌悪として現れ、オタクとフェミニズムの対立がいっそう深くなっていってしまっていると思います。これについては、次の[障害の社会モデルからオタクとフェミニズムの対立、そして「ゲーム依存症」問題を考える](https://huideyeren.info/2021/01/07/considering-the-conflict-between-otaku-and-feminism-from-the-social-model-of-disability/)の記事に続きを書きたいと思います。
