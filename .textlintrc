@@ -1,12 +1,24 @@
 {
     "rules": {
-        "preset-japanese": true,
+        "preset-smarthr":{
+            "no-mixed-zenkaku-and-hankaku-alphabet": false,
+            "sentence-length": false
+        },
         "prh": {
             "rulePaths": [
-                "./node_modules/prh/prh-rules/languages/ja/typo.yml",
-                "./node_modules/prh/prh-rules/media/techbooster.yml",
-                "./node_modules/prh/prh-rules/media/WEB+DB_PRESS.yml"
+                "dict/smarthr-prh-basic.yml",
+                "dict/smarthr-prh-tech-word.yml"
             ]
+        }
+    },
+    "filters": {
+        "comments": {
+            // enable comment directive
+            // if comment has the value, then enable textlint rule
+            "enablingComment": "textlint-enable",
+            // disable comment directive
+            // if comment has the value, then disable textlint rule
+           "disablingComment": "textlint-disable"
         }
     }
 }
