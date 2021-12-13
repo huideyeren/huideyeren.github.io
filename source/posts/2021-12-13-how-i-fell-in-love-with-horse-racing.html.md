@@ -10,7 +10,7 @@ tags: Essay, Horse Racing
 
 この記事は [競馬 Advent Calendar 2021](https://adventar.org/calendars/6243) の12月14日分の記事です。
 
-昨日の記事は[竹之内ぽよさんの記事（タイトル不明）](https://adventar.org/calendars/6243)です。
+昨日の記事は竹之内ぽよさんの[【競馬AdventCalendar】浦和1600を偲ぶ会](https://urawanovtuber.hatenablog.com/entry/2021/12/14/003724?_ga=2.200724397.2040808766.1639394451-1286143700.1578919430)です。
 
 ## 今年はウマ娘が人気ですね……
 
