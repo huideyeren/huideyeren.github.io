@@ -9,7 +9,7 @@ tags: Game, TacticsOgre, Otaku, Essay, Advent-calendar
 ## はじめに
 
 この記事は「[ゲームとことば Advent Calendar 2021](https://adventar.org/calendars/6513)」の12月11日分の記事です。
-前日の記事はI.Hさんの記事「[（現時点で未定）](https://adventar.org/calendars/6513)」でした。
+前日の記事はI.Hさんの記事「[Grandmaがババアになるまでの話](https://note.com/strikeaflint/n/ne5b8a390894f)」でした。
 
 さて、私が選んだことばは「タクティクスオウガ」の「おのれを棄てろ…、大儀の為のいしずえとなれ……」ということばです。
 タクティクスオウガが発売されたのは26年前の1995年になるわけですが、1995年というと日本中を揺るがした様々な出来事[^1]が起きた年でもあります。
