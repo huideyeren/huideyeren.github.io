@@ -88,7 +88,7 @@ configure :build do
   activate :relative_assets
 
   # Or use a different image path
-  set :http_prefix, "/images/"
+  # set :http_prefix, "/images/"
 
   activate :gzip
 
