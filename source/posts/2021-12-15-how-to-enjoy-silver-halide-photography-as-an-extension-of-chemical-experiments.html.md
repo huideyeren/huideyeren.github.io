@@ -67,3 +67,15 @@ tags: Photo, Essay
 ## 最後に
 
 【2nd Roll】カメクラが沼へ誘う Advent Calendar 2021ですが、明日はaika0156さんが執筆するようです。中判フィルムのこととあり、楽しみにしております。
+
+## 2021-12-21 追記
+
+[PyPIにてAnshitsuをリリースしました！](https://pypi.org/project/anshitsu/)
+
+Python（3.8以上）をインストールした上で次のコマンドを実行してください。
+
+``` shell
+pip install anshitsu
+```
+
+そうすると、コマンドラインからAnshitsuを使えるようになります。
