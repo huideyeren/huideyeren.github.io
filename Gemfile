@@ -27,7 +27,7 @@ gem 'middleman-deploy', '~> 1.0'
 gem 'middleman-s3_sync', '~> 3.0.47'
 
 # For Markdown
-gem 'redcarpet', '~> 3.2.2'
+gem 'redcarpet', '~> 3.5.1'
 
 # For sitemap
 gem 'sitemap_generator', '~> 5.0.5'
