@@ -9,3 +9,11 @@ tags: Tech, Essay, Ruby, Middleman
 とりあえず手元のMacで復旧したかテスト。
 
 復旧したら、今のブログをモダナイズすることを考えなければ……。
+
+## 備忘録
+
+[【puma】puma4台インストールできない問題の対処法](https://qiita.com/aiandrox/items/9389696ebc3cc6d3422e)
+
+こんなことがあるらしい。確かに、 puma のバージョンは4.3.5だった。
+
+4.3.6にあげたら解消した。
