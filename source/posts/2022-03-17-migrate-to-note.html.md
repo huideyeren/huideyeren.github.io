@@ -10,7 +10,7 @@ tags: Notice
 
 noteのアドレスは以下になります。
 
-https://note.com/iosif
+[https://note.com/iosif](https://note.com/iosif)
 
 なお、このブログは残しますが、今後更新は行わない予定です。
 
@@ -18,6 +18,6 @@ https://note.com/iosif
 
 Qiitaのアドレスは以下になります。
 
-https://qiita.com/huideyeren
+[https://qiita.com/huideyeren](https://qiita.com/huideyeren)
 
 これからは、noteでよろしくお願いいたします。
